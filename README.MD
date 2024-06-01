@@ -1,12 +1,29 @@
+## 🧠 Prompts
+
+
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie um título de um ebook sobre o tema de HTML, o ebook é do nicho de programação e o subnicho é de html, o título deve ser curto, e tenha uma temática de anatomia no título, me liste 5 variações de títulos                     |
+| conteúdo | Faça um texto para ebook , com foco em html, listando os principais tags com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
+
+
+Bing Image Creator：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título | Em pixel art, um médico simulando um exame em um computador com elementos de desenvolvimento de sites |
+
+
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via [ChatGPT](https://chat.openai.com/), [Bing Image Creator](https://www.midjourney.com/app/) e [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado durante as aulas em `output` com personalizações
 
 ## 🛠️ Instruções de execução
 
